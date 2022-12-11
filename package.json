@@ -15,7 +15,7 @@
     "apollo-server-express": "^2.9.16",
     "argon2": "^0.25.1",
     "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "graphql": "^14.5.8",
     "pg": "^7.3.0",
